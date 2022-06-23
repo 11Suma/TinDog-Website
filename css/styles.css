@@ -14,7 +14,7 @@ p {
 .big-heading{
   font-family: "Montserrat-Bold";
   font-size: 3rem;
-  line-height: 1.5rem;
+  line-height: 2rem;
 }
 
 .section-heading{
@@ -201,4 +201,13 @@ p {
     width: 50%;
     transform: rotate(0);
   }
+  
+  .testimonial-text{
+    font-size:1.5rem;
+  }
+  
+  .big-heading{
+    font-size:1.5rem;
+  }
+   
 }
